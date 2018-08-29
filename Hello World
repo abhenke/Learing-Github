@@ -1,5 +1,8 @@
-import java.util.Scanner
-public static void main
+import java.util.Scanner;
+public class Hello World
 {
- System.out.print("Hello, World!");
+ 	public static void main (String args[])
+  {
+   System.out.print("Hello, World!\n");
+  }
 }
